@@ -2,7 +2,6 @@
 // Describes work with arguments of functions, that set by default
 
 #include <iostream>
-#include <string>
 
 int askNumber(int high, int low = 1);
 int main()
