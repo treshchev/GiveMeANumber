@@ -1,5 +1,5 @@
-// Program Give Me A Number
-// Describes work with arguments of functions, that set by default
+// Program Give Me A Number.
+// Describes work with arguments of functions, that set by default.
 
 #include <iostream>
 
